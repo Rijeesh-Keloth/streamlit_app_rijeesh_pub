@@ -248,7 +248,7 @@ Please provide a helpful, accurate answer based on the context above."""
 
 def main():
     st.set_page_config(
-        page_title="Rijeesh Keloth - Research Assistant",
+        page_title="Rijeesh Keloth - Research Scientist",
         page_icon="🔬",
         layout="wide"
     )
