@@ -278,7 +278,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Header
-    st.markdown('<p class="main-header">🔬 Rijeesh Keloth - Research Assistant</p>', unsafe_allow_html=True)
+    st.markdown('<p class="main-header">🔬 Rijeesh Keloth - Research Scientist</p>', unsafe_allow_html=True)
     st.markdown('<p class="sub-header">Ask questions about my research, publications, and expertise</p>', unsafe_allow_html=True)
     
     # Sidebar
